@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "3.4.4",
     "semantic-ui-react": "^0.88.2"
   },
   "scripts": {
